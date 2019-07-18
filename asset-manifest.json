@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dratarsys/static/css/main.bfcb06c4.chunk.css",
+    "main.js": "/dratarsys/static/js/main.690857f1.chunk.js",
+    "main.js.map": "/dratarsys/static/js/main.690857f1.chunk.js.map",
+    "runtime~main.js": "/dratarsys/static/js/runtime~main.e540bb66.js",
+    "runtime~main.js.map": "/dratarsys/static/js/runtime~main.e540bb66.js.map",
+    "static/js/2.46923cba.chunk.js": "/dratarsys/static/js/2.46923cba.chunk.js",
+    "static/js/2.46923cba.chunk.js.map": "/dratarsys/static/js/2.46923cba.chunk.js.map",
+    "index.html": "/dratarsys/index.html",
+    "precache-manifest.77977ea458ec9f507d852dd2e71c65ac.js": "/dratarsys/precache-manifest.77977ea458ec9f507d852dd2e71c65ac.js",
+    "service-worker.js": "/dratarsys/service-worker.js",
+    "static/css/main.bfcb06c4.chunk.css.map": "/dratarsys/static/css/main.bfcb06c4.chunk.css.map",
+    "static/media/isotipo_white.png": "/dratarsys/static/media/isotipo_white.56ceacfb.png",
+    "static/media/tarsys_3_gris.png": "/dratarsys/static/media/tarsys_3_gris.019706a1.png"
+  }
+}
