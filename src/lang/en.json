@@ -1,5 +1,6 @@
 {
   "locale": "en",
+
   "Header": {
     "yo": "Me",
     "miMarca": "My brand",
@@ -8,5 +9,10 @@
     "misValores": "My values",
     "miCarrera": "My career",
     "contactame": "Contact me"
+  },
+
+  "Home": {
+    "presentacion": "I am Tarsys Loayza Roys, visionary dentist and businesswoman, a fighter to make my patients happier every day. Pioneer of Spa-type dental clinics in Latin America and founder and director of Sonrisa Perfecta Dental Tarsys Loayza Roys, one of the most prestigious in the world. Colombian who praises her profession, and owns the first smiles brand on the planet, Sonrisa Renaissance Hollywood ®",
+    "firstPhrase": "\"Excellence is perfect\""
   }
 }

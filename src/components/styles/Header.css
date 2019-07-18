@@ -6,6 +6,10 @@
   top: 0;
 }
 
+.header_toggler {
+  outline-color: var(--white-color) !important;
+}
+
 .header_background {
   background: linear-gradient(
     0deg,

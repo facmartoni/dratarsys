@@ -24,7 +24,7 @@ export default function Header(props) {
       </Navbar.Brand>
       <Navbar.Toggle
         aria-controls="responsive-navbar-nav"
-        className="border-0"
+        className="border-0 font_white_color header_toggler"
       />
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="ml-auto align-items-md-center">
