@@ -1,0 +1,12 @@
+{
+  "locale": "es",
+  "Header": {
+    "yo": "Yo",
+    "miMarca": "Mi marca",
+    "premios": "Premios",
+    "miClinica": "Mi clínica",
+    "misValores": "Mis valores",
+    "miCarrera": "Mi carrera",
+    "contactame": "Contáctame"
+  }
+}

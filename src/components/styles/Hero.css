@@ -1,0 +1,45 @@
+.hero {
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.hero_image {
+  object-fit: cover;
+  object-position: 0 0;
+  position: relative;
+}
+
+.hero_title_container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  position: absolute;
+  bottom: 0;
+  color: var(--white-color);
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 0%,
+    rgba(0, 0, 0, 0.7) 53%,
+    rgba(0, 0, 0, 1) 100%
+  );
+}
+
+.hero_title {
+  line-height: 1.2;
+}
+
+@media screen and (max-width: 410px) {
+  .hero_image {
+    max-width: 100%;
+    object-position: 10% 0;
+  }
+}
+
+@media screen and (min-width: 480px) {
+  .hero_image {
+    width: 100%;
+  }
+}

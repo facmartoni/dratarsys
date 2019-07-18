@@ -1,0 +1,117 @@
+/* Foundations */
+
+/* Fonts */
+
+@import url("https://fonts.googleapis.com/css?family=Cabin|Lobster&display=swap");
+
+:root {
+  /* Colors */
+
+  --white-color: #ffffff;
+  --black-color: #2b061e;
+  --action-color: #edadc7;
+  --primary-color: #89608e;
+  --secondary-color: #623b5a;
+
+  /* Font sizes*/
+
+  --h1: 40px;
+  --h2: 30px;
+  --big-text: 20px;
+  --normal-text: 18px;
+  --small-text: 14px;
+}
+
+/* Custom classes */
+
+h1,
+h2,
+h3,
+.lobster {
+  font-family: "Lobster", cursive !important;
+}
+
+p,
+small,
+strong,
+.cabin {
+  font-family: "Cabin", sans-serif !important;
+}
+
+h1 {
+  font-size: var(--h1) !important;
+}
+
+h2 {
+  font-size: var(--h2) !important;
+}
+
+.big_text {
+  font-size: var(--big-text) !important;
+}
+
+p {
+  font-size: var(--normal-text) !important;
+}
+
+small {
+  font-size: var(--small-text) !important;
+}
+
+.line_height_12 {
+  line-height: 1.2 !important;
+}
+
+.background_white_color {
+  background: var(--white-color) !important;
+}
+.background_black_color {
+  background: var(--black-color) !important;
+}
+.background_action_color {
+  background: var(--action-color) !important;
+}
+.background_secondary_color {
+  background: var(--secondary-color) !important;
+}
+.background_primary_color {
+  background: var(--primary-color) !important;
+}
+
+.font_white_color {
+  color: var(--white-color) !important;
+}
+.font_black_color {
+  color: var(--black-color) !important;
+}
+.font_action_color {
+  color: var(--action-color) !important;
+}
+.font_secondary_color {
+  color: var(--secondary-color) !important;
+}
+.font_primary_color {
+  color: var(--primary-color) !important;
+}
+
+.background_transparent {
+  background: rgba(0, 0, 0, 0) !important;
+}
+
+@media screen and (min-width: 600px) {
+  :root {
+    --h1: 50px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+  :root {
+    --h1: 60px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  :root {
+    --h1: 70px;
+  }
+}
