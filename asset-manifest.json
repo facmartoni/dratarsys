@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/dratarsys/static/css/main.bfcb06c4.chunk.css",
-    "main.js": "/dratarsys/static/js/main.690857f1.chunk.js",
-    "main.js.map": "/dratarsys/static/js/main.690857f1.chunk.js.map",
+    "main.css": "/dratarsys/static/css/main.dd801590.chunk.css",
+    "main.js": "/dratarsys/static/js/main.347501f4.chunk.js",
+    "main.js.map": "/dratarsys/static/js/main.347501f4.chunk.js.map",
     "runtime~main.js": "/dratarsys/static/js/runtime~main.e540bb66.js",
     "runtime~main.js.map": "/dratarsys/static/js/runtime~main.e540bb66.js.map",
-    "static/js/2.46923cba.chunk.js": "/dratarsys/static/js/2.46923cba.chunk.js",
-    "static/js/2.46923cba.chunk.js.map": "/dratarsys/static/js/2.46923cba.chunk.js.map",
+    "static/js/2.88f9b861.chunk.js": "/dratarsys/static/js/2.88f9b861.chunk.js",
+    "static/js/2.88f9b861.chunk.js.map": "/dratarsys/static/js/2.88f9b861.chunk.js.map",
     "index.html": "/dratarsys/index.html",
-    "precache-manifest.77977ea458ec9f507d852dd2e71c65ac.js": "/dratarsys/precache-manifest.77977ea458ec9f507d852dd2e71c65ac.js",
+    "precache-manifest.0e7afde75bef7ff82749fda4306a03f5.js": "/dratarsys/precache-manifest.0e7afde75bef7ff82749fda4306a03f5.js",
     "service-worker.js": "/dratarsys/service-worker.js",
-    "static/css/main.bfcb06c4.chunk.css.map": "/dratarsys/static/css/main.bfcb06c4.chunk.css.map",
+    "static/css/main.dd801590.chunk.css.map": "/dratarsys/static/css/main.dd801590.chunk.css.map",
+    "static/media/16.png": "/dratarsys/static/media/16.fd6fef66.png",
+    "static/media/19.png": "/dratarsys/static/media/19.71de157a.png",
+    "static/media/9.png": "/dratarsys/static/media/9.f411ec5e.png",
     "static/media/isotipo_white.png": "/dratarsys/static/media/isotipo_white.56ceacfb.png",
+    "static/media/renaissance_hollywood.png": "/dratarsys/static/media/renaissance_hollywood.2a2b8b7f.png",
     "static/media/tarsys_3_gris.png": "/dratarsys/static/media/tarsys_3_gris.019706a1.png"
   }
 }
