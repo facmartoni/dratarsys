@@ -58,6 +58,10 @@ small {
   font-size: var(--small-text) !important;
 }
 
+strong {
+  font-weight: 700 !important;
+}
+
 .line_height_12 {
   line-height: 1.2 !important;
 }
@@ -101,6 +105,10 @@ small {
 @media screen and (min-width: 600px) {
   :root {
     --h1: 50px;
+    --h2: 34px;
+    --big-text: 22px;
+    --normal-text: 20px;
+    --small-text: 16px;
   }
 }
 
