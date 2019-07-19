@@ -1,0 +1,8 @@
+.ButtonPink {
+  min-width: 100px;
+}
+
+.ButtonPink:hover {
+  background: var(--black-color) !important;
+  color: var(--white-color) !important;
+}

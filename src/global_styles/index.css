@@ -26,7 +26,6 @@
 
 h1,
 h2,
-h3,
 .lobster {
   font-family: "Lobster", cursive !important;
 }
@@ -34,6 +33,7 @@ h3,
 p,
 small,
 strong,
+h3,
 .cabin {
   font-family: "Cabin", sans-serif !important;
 }
@@ -50,6 +50,7 @@ h2 {
   font-size: var(--big-text) !important;
 }
 
+h3,
 p {
   font-size: var(--normal-text) !important;
 }
@@ -102,6 +103,12 @@ strong {
   background: rgba(0, 0, 0, 0) !important;
 }
 
+/* Miscellaneus */
+
+.max-height-400 {
+  max-height: none;
+}
+
 @media screen and (min-width: 600px) {
   :root {
     --h1: 50px;
@@ -121,5 +128,9 @@ strong {
 @media screen and (min-width: 1280px) {
   :root {
     --h1: 70px;
+  }
+
+  .max-height-400 {
+    max-height: 400px !important;
   }
 }

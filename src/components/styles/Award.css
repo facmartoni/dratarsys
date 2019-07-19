@@ -1,0 +1,13 @@
+.Award {
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.Award:hover {
+  transform: scale(1.2);
+}
+
+.Award_button:hover {
+  background: var(--black-color) !important;
+  color: var(--white-color) !important;
+}

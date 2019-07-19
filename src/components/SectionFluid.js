@@ -10,7 +10,7 @@ export default function SectionFluid(props) {
   if (order === "imagefirst") {
     return (
       <Row noGutters>
-        <Col xs={12} md={6}>
+        <Col xs={12} md={6} className={props.className}>
           <Image src={props.image} className="SectionFluid_image w-100" />
         </Col>
         <Col
@@ -36,7 +36,7 @@ export default function SectionFluid(props) {
         >
           {props.children}
         </Col>
-        <Col>
+        <Col className={props.className}>
           <Image src={props.image} className="SectionFluid_image w-100" />
         </Col>
       </Row>

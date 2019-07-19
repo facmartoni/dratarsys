@@ -7,7 +7,7 @@ export default class LanguageButton extends Component {
       <ButtonGroup>
         <Button
           variant={
-            window.matchMedia("(max-width: 768px)").matches
+            window.matchMedia("(max-width: 767px)").matches
               ? "dark"
               : "outline-light"
           }
@@ -19,7 +19,7 @@ export default class LanguageButton extends Component {
         </Button>
         <Button
           variant={
-            window.matchMedia("(max-width: 768px)").matches
+            window.matchMedia("(max-width: 767px)").matches
               ? "dark"
               : "outline-light"
           }

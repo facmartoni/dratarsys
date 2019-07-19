@@ -19,5 +19,15 @@
     "marcaTexto2": "Hace alusión a luminarias, glamour, perfección, moda y éxito.",
     "marcaTexto3": "Es un diseño de sonrisa donde confluye todo lo que inspira la vida moderna. Es una sonrisa con identidad de nuestro vivir, de nuestro hoy, porque permite proyectar clase, distinción, éxito y sensibilidad, todo esto bajo cánones fehacientes de calidad y excelencia.",
     "premiosTitle": "Premios y Reconocimientos"
+  },
+
+  "Awards": {
+    "button": "Ver",
+    "awardTitle19": "Premio a la Calidad",
+    "awardText19": "Asociación Europea de la Calidad, Berlín 2019",
+    "awardTitle16": "International Core Quality Achievement",
+    "awardText16": "Calidad de acuerdo con los Criterios QC100. BID – París 2019",
+    "awardTitle9": "The Winner Awards",
+    "awardText9": "São Paulo Brasil - 2018"
   }
 }
