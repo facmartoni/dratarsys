@@ -1,5 +1,6 @@
 import React from "react";
 import Header from "./Header";
+import Footer from "./Footer";
 
 export default function Layout(props) {
   return (
@@ -11,6 +12,7 @@ export default function Layout(props) {
         handleButtonES={props.handleButtonES}
       />
       {props.children}
+      <Footer />
     </>
   );
 }

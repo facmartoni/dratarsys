@@ -28,21 +28,48 @@
     "misValoresText": "Desde que iniciamos la planificación de la sonrisa con el paciente, la misma está impregnada de tecnología, excelencia y estándares máximos para cumplir los objetivos de un resultado exitoso. No sólo confluyen en su producción elementos clínicos y de formación profesional, sino también el arte en su máxima expresión.",
     "contactTitle": "Contáctame",
     "contactPhone": "Teléfono:",
-    "contactEmail": "Email:"
+    "contactEmail": "Email:",
+    "eterware": "Sitio web de lujo por",
+    "eterwareLink": "https://eterware.com/",
+    "bidLink": "https://www.bid-org.com/es"
   },
 
   "Awards": {
+    "awardsTitle": "Premios",
     "button": "Ver",
     "buttonClose": "Cerrar",
     "buttonSeeAll": "Ver todos",
+
     "awardTitle19": "Premio a la Calidad",
     "awardText19": "Asociación Europea de la Calidad, Berlín 2019",
     "awardDescription19": "Asociación Europea de la Calidad, Berlín 2019. Premiada por la Sociedad Europea",
+
     "awardTitle16": "International Core Quality Achievement",
     "awardText16": "Calidad de acuerdo con los Criterios QC100. BID – París 2019",
     "awardDescription16": "Premiada en Diamond Category por logros empresariales sobresalientes, perseverancia y liderazgo en excelencia y calidad de acuerdo con los Criterios QC100. BID – París 2019",
+
     "awardTitle9": "The Winner Awards",
     "awardText9": "São Paulo Brasil - 2018",
-    "awardDescription9": "Premiada por esfuerzos sobresalientes en el campo odontológico y empresarial. São Paulo Brasil - 2018"
+    "awardDescription9": "Premiada por esfuerzos sobresalientes en el campo odontológico y empresarial. São Paulo Brasil - 2018",
+
+    "awardTitle11": "International Award for Excellence and Business Prestige",
+    "awardText11": "Premiada en Categoría Platino. BID - New York 2018",
+    "awardDescription11": "Premiada en Categoría Platino por esfuerzos sobresalientes en el campo odontológico y empresarial. BID - New York 2018",
+
+    "awardTitle15": "Business Management Award",
+    "awardText15": "En mérito a su éxito empresarial en su Sistema de Gestión. Colombia 2018",
+    "awardDescription15": "En mérito a su éxito empresarial en su Sistema de Gestión otorgado por Global Business Corporation. Colombia 2018",
+
+    "awardTitle3": "Premio Excelencia Médica",
+    "awardText3": "Otorgado en Panamá. CIS - 2017",
+    "awardDescription3": "Premiada por esfuerzos sobresalientes en el campo odontológico y empresarial. CIS - Panamá 2017",
+
+    "awardTitle13": "International Star for Quality",
+    "awardText13": "Premiada en Categoría Oro. BID - Ginebra 2017",
+    "awardDescription13": "Premiada en Categoría Oro por calidad y excelencia en el campo empresarial y odontológico. BID - Ginebra 2017",
+
+    "awardTitle7": "Excellence in Health Care Prize",
+    "awardText7": "Acreditación Internacional Quality in Health Care. IOCIM - Chile 2017",
+    "awardDescription7": "Premiada por calidad y excelencia en el campo empresarial y odontológico. Acreditación Internacional Quality in Health Care. IOCIM - Chile 2017"
   }
 }

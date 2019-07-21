@@ -11,7 +11,7 @@ import ButtonPink from "../components/ButtonPink";
 
 import renaissanceHollywood from "../images/varios/renaissance_hollywood.png";
 import consultorio from "../images/consultorio/consultorio_9.png";
-import smile from "../images/varios/smile.jpg";
+import smile from "../images/varios/smile.png";
 import award19 from "../images/premios/19.png";
 import award16 from "../images/premios/16.png";
 import award9 from "../images/premios/9.png";

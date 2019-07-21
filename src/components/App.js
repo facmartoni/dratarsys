@@ -3,6 +3,7 @@ import { TranslatorProvider } from "react-translate";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 import Home from "../pages/Home";
+import Awards from "../pages/Awards";
 import Layout from "./Layout";
 
 class App extends Component {
@@ -46,6 +47,7 @@ class App extends Component {
           >
             <Switch>
               <Route exact path="/" component={Home} />
+              <Route exact path="/premios" component={Awards} />
             </Switch>
           </Layout>
         </BrowserRouter>

@@ -17,7 +17,10 @@ export default function Award(props) {
     <>
       <Card
         style={{ width: "18rem" }}
-        className="Award d-flex flex-column align-items-center rounded-0 mb-4"
+        className={
+          props.className +
+          " Award d-flex flex-column align-items-center rounded-0 mb-4"
+        }
         onClick={handleShow}
       >
         <Card.Img className="Award_image" variant="top" src={props.image} />

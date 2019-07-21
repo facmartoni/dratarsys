@@ -42,7 +42,7 @@ export default function Header(props) {
             </Link>
           </Nav.Link>
           <Nav.Link className="font_white_color">
-            <Link className="text-decoration-none text-reset" to="/#premios">
+            <Link className="text-decoration-none text-reset" to="/premios">
               {t("premios")}
             </Link>
           </Nav.Link>

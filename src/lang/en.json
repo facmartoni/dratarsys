@@ -28,21 +28,48 @@
     "misValoresText": "Since we start planning the smile with the patient, it is imbued with technology, excellence and maximum standards to meet the objectives of a successful outcome. Not only clinical and professional training elements come together in its production, but also art at its maximum expression.",
     "contactTitle": "Contact me",
     "contactPhone": "Phone:",
-    "contactEmail": "Email:"
+    "contactEmail": "Email:",
+    "eterware": "Luxury website by",
+    "eterwareLink": "https://eterware.com/en",
+    "bidLink": "https://www.bid-org.com/"
   },
 
   "Awards": {
+    "awardsTitle": "Awards",
     "button": "See",
     "buttonClose": "Close",
     "buttonSeeAll": "See all",
+
     "awardTitle19": "Quality Choice Prize",
     "awardText19": "European Quality Association, Berlin 2019",
     "awardDescription19": "European Quality Association, Berlin 2019. Awarded by the European Society",
+
     "awardTitle16": "International Core Quality Achievement",
     "awardText16": "Quality in accordance with the QC100 Criteria. BID - Paris 2019",
     "awardDescription16": "Awarded in Diamond Category for outstanding business achievements, perseverance and leadership in excellence and quality in accordance with the QC100 Criteria. BID - Paris 2019",
+
     "awardTitle9": "The Winner Awards",
     "awardText9": "São Paulo Brasil - 2018",
-    "awardDescription9": "Awarded for outstanding efforts in the field of dentistry and business. São Paulo Brasil - 2018"
+    "awardDescription9": "Awarded for outstanding efforts in the field of dentistry and business. São Paulo Brasil - 2018",
+
+    "awardTitle11": "International Award for Excellence and Business Prestige",
+    "awardText11": "Awarded in Platinum Category. BID - New York 2018",
+    "awardDescription11": "Awarded in Platinum Category for outstanding efforts in the field of dentistry and business. BID - New York 2018",
+
+    "awardTitle15": "Business Management Award",
+    "awardText15": "In merit to her business success in her Management System. Colombia 2018",
+    "awardDescription15": "In merit to her business success in her Management System granted by Global Business Corporation. Colombia 2018",
+
+    "awardTitle3": "Medical Excellence Award",
+    "awardText3": "Awarded in Panama. CIS - 2017",
+    "awardDescription3": "Awarded for outstanding efforts in the dental and business field. CIS - Panamá 2017",
+
+    "awardTitle13": "International Star for Quality",
+    "awardText13": "Awarded in Gold Category. BID - Ginebra 2017",
+    "awardDescription13": "Awarded in Gold Category for quality and excellence in the business and dental field. BID - Ginebra 2017",
+
+    "awardTitle7": "Excellence in Health Care Prize",
+    "awardText7": "Quality in Health Care International Accreditation. IOCIM - Chile 2017",
+    "awardDescription7": "Awarded for quality and excellence in the business and dental fields. Quality in Health Care International Accreditation. IOCIM - Chile 2017"
   }
 }
