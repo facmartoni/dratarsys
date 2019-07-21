@@ -1,4 +1,5 @@
 import React from "react";
+import { HashLink as Link } from "react-router-hash-link";
 import { Navbar, Image, Nav, Button } from "react-bootstrap";
 import { useTranslate } from "react-translate";
 
@@ -19,8 +20,10 @@ export default function Header(props) {
       className="cabin header header_background"
       py={0}
     >
-      <Navbar.Brand href="#home">
-        <Image src={Logo} height="50px" width="50px" />
+      <Navbar.Brand>
+        <Link to="/">
+          <Image src={Logo} height="50px" width="50px" />
+        </Link>
       </Navbar.Brand>
       <Navbar.Toggle
         aria-controls="responsive-navbar-nav"
@@ -28,26 +31,40 @@ export default function Header(props) {
       />
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="ml-auto align-items-md-center">
-          <Nav.Link className="font_white_color" href="#yo">
-            {t("yo")}
+          <Nav.Link className="font_white_color">
+            <Link className="text-decoration-none text-reset" to="/#yo">
+              {t("yo")}
+            </Link>
           </Nav.Link>
-          <Nav.Link className="font_white_color" href="#marca">
-            {t("miMarca")}
+          <Nav.Link className="font_white_color">
+            <Link className="text-decoration-none text-reset" to="/#marca">
+              {t("miMarca")}
+            </Link>
           </Nav.Link>
-          <Nav.Link className="font_white_color" href="#premios">
-            {t("premios")}
+          <Nav.Link className="font_white_color">
+            <Link className="text-decoration-none text-reset" to="/#premios">
+              {t("premios")}
+            </Link>
           </Nav.Link>
-          <Nav.Link className="font_white_color" href="#clinica">
-            {t("miClinica")}
+          <Nav.Link className="font_white_color">
+            <Link className="text-decoration-none text-reset" to="/#clinica">
+              {t("miClinica")}
+            </Link>
           </Nav.Link>
-          <Nav.Link className="font_white_color" href="#clinica">
-            {t("misValores")}
+          <Nav.Link className="font_white_color">
+            <Link className="text-decoration-none text-reset" to="/#valores">
+              {t("misValores")}
+            </Link>
           </Nav.Link>
-          <Nav.Link className="font_white_color" href="#clinica">
-            {t("miCarrera")}
+          <Nav.Link className="font_white_color">
+            <Link className="text-decoration-none text-reset" to="/carrera">
+              {t("miCarrera")}
+            </Link>
           </Nav.Link>
-          <Nav.Link href="#clinica">
-            <ButtonPink>{t("contactame")}</ButtonPink>
+          <Nav.Link>
+            <Link className="text-decoration-none text-reset" to="/#contacto">
+              <ButtonPink>{t("contactame")}</ButtonPink>
+            </Link>
           </Nav.Link>
           <Nav.Item>
             <LanguageButton

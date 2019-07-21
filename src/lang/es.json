@@ -14,20 +14,35 @@
   "Home": {
     "presentacion": "Soy Tarsys Loayza Roys, visionaria odontóloga y empresaria, luchadora para hacer cada día más feliz a mis pacientes. Pionera de las clínicas dentales tipo Spa en Latinoamérica y fundadora y directora de Sonrisa Perfecta Dental Tarsys Loayza Roys, una de las más prestigiosas del mundo. Colombiana que enaltece su profesión, y dueña de la primera marca de sonrisas del planeta, Sonrisa Renaissance Hollywood ®",
     "firstPhrase": "\"La excelencia es perfecta\"",
+    "secondPhrase": "\"Los sueños se deben tocar desde nuestra mente para hacerlos realidad. Cuando se vuelven tangibles y se vislumbran reales ya son tuyos\"",
+    "thirdPhrase": "\"La visión clínica está unida a la formación académica pero la perfección está unida a la habilidad y sensibilidad artística\"",
     "marcaTitulo": "Sonrisa Renaissance Hollywood ®",
     "marcaTexto1": "Evoca a un movimiento cultural europeo que marcó paradigmas importantes entre la ciencia, el arte y la arquitectura, en donde se consolidaron líneas simples y se instauró la claridad de formas.",
     "marcaTexto2": "Hace alusión a luminarias, glamour, perfección, moda y éxito.",
     "marcaTexto3": "Es un diseño de sonrisa donde confluye todo lo que inspira la vida moderna. Es una sonrisa con identidad de nuestro vivir, de nuestro hoy, porque permite proyectar clase, distinción, éxito y sensibilidad, todo esto bajo cánones fehacientes de calidad y excelencia.",
-    "premiosTitle": "Premios y Reconocimientos"
+    "premiosTitle": "Premios y Reconocimientos",
+    "clinicaTitle": "Mi clínica",
+    "clinicaText": "Situada en la ciudad de Cartagena de Indias, Colombia, Sonrisa Perfecta Dental es el lugar donde se ofrece internacionalmente Estética Dental, Rehabilitación e Implantología Oral con los mayores advenimientos tecnológicos de punta desarrollados a nivel mundial. Anestesia por computador, Implantes Dentales con Tecnología Láser Sin Bisturí, Diseño de sonrisa: Sonrisa Renaissance Hollywood (marca registrada), Estética y Plástica Dental, Rehabilitación Oral y Odontología Robótica, Endodoncias Digitalizadas, Patologías, Cirugía Maxilofacial, Periodoncia, Cirugías Láser y Laserterapia son algunos de los tratamientos ofrecidos que permiten resultados indoloros y exitosos. Puedes visitarla",
+    "clinicaLink": "aquí",
+    "misValoresTitle": "Mis valores",
+    "misValoresText": "Desde que iniciamos la planificación de la sonrisa con el paciente, la misma está impregnada de tecnología, excelencia y estándares máximos para cumplir los objetivos de un resultado exitoso. No sólo confluyen en su producción elementos clínicos y de formación profesional, sino también el arte en su máxima expresión.",
+    "contactTitle": "Contáctame",
+    "contactPhone": "Teléfono:",
+    "contactEmail": "Email:"
   },
 
   "Awards": {
     "button": "Ver",
+    "buttonClose": "Cerrar",
+    "buttonSeeAll": "Ver todos",
     "awardTitle19": "Premio a la Calidad",
     "awardText19": "Asociación Europea de la Calidad, Berlín 2019",
+    "awardDescription19": "Asociación Europea de la Calidad, Berlín 2019. Premiada por la Sociedad Europea",
     "awardTitle16": "International Core Quality Achievement",
     "awardText16": "Calidad de acuerdo con los Criterios QC100. BID – París 2019",
+    "awardDescription16": "Premiada en Diamond Category por logros empresariales sobresalientes, perseverancia y liderazgo en excelencia y calidad de acuerdo con los Criterios QC100. BID – París 2019",
     "awardTitle9": "The Winner Awards",
-    "awardText9": "São Paulo Brasil - 2018"
+    "awardText9": "São Paulo Brasil - 2018",
+    "awardDescription9": "Premiada por esfuerzos sobresalientes en el campo odontológico y empresarial. São Paulo Brasil - 2018"
   }
 }

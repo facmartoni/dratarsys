@@ -1,7 +1,9 @@
 import React, { Component } from "react";
 import { TranslatorProvider } from "react-translate";
+import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 import Home from "../pages/Home";
+import Layout from "./Layout";
 
 class App extends Component {
   state = {
@@ -35,12 +37,18 @@ class App extends Component {
       <TranslatorProvider
         translations={require("../lang/" + this.state.language + ".json")}
       >
-        <Home
-          activeButtonEN={this.state.activeButtonEN}
-          activeButtonES={this.state.activeButtonES}
-          handleButtonEN={this.handleButtonEN}
-          handleButtonES={this.handleButtonES}
-        />
+        <BrowserRouter>
+          <Layout
+            activeButtonEN={this.state.activeButtonEN}
+            activeButtonES={this.state.activeButtonES}
+            handleButtonEN={this.handleButtonEN}
+            handleButtonES={this.handleButtonES}
+          >
+            <Switch>
+              <Route exact path="/" component={Home} />
+            </Switch>
+          </Layout>
+        </BrowserRouter>
       </TranslatorProvider>
     );
   }

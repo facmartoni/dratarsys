@@ -8,9 +8,10 @@ export default function ButtonPink(props) {
   return (
     <Button
       variant="secondary"
+      onClick={props.onClick}
       className={
         props.className +
-        " ButtonPink background_action_color font_black_color rounded-0 border-0"
+        " ButtonPink background_action_color font_black_color rounded-0 border-0 cabin"
       }
     >
       {props.children}

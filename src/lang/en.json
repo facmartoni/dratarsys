@@ -14,20 +14,35 @@
   "Home": {
     "presentacion": "I am Tarsys Loayza Roys, visionary dentist and businesswoman, a fighter to make my patients happier every day. Pioneer of Spa-type dental clinics in Latin America and founder and director of Sonrisa Perfecta Dental Tarsys Loayza Roys, one of the most prestigious in the world. Colombian who praises her profession, and owns the first smiles brand on the planet, Sonrisa Renaissance Hollywood ®",
     "firstPhrase": "\"Excellence is perfect\"",
+    "secondPhrase": "\"Dreams must be touched from our mind to make them come true. When they become tangible and glimpse real they are already yours\"",
+    "thirdPhrase": "\"Clinical vision is linked to academic training but perfection is linked to artistic skill and sensitivity\"",
     "marcaTitulo": "Sonrisa Renaissance Hollywood ®",
     "marcaTexto1": "It evokes a European cultural movement that marked important paradigms between science, art and architecture, where simple lines were consolidated and the clarity of forms was established.",
     "marcaTexto2": "It refers to luminaries, glamor, perfection, fashion and success.",
     "marcaTexto3": "It is a smile design where everything that inspires modern life comes together. It is a smile with identity of our living, of our today, because it allows us to project class, distinction, success and sensitivity, all this under strict canons of quality and excellence.",
-    "premiosTitle": "Awards and honours"
+    "premiosTitle": "Awards and honours",
+    "clinicaTitle": "My clinic",
+    "clinicaText": "Located in the city of Cartagena de Indias, Colombia, Sonrisa Perfecta Dental is the place where Dental Aesthetics, Rehabilitation and Oral Implantology is offered internationally with the most advanced technological advents developed worldwide. Computer Anesthesia, Dental Implants with Laser Technology Without Scalpel, Smile Design: Smile Renaissance Hollywood (trademark), Aesthetic and Dental Plastic, Oral Rehabilitation and Robotic Dentistry, Digitized Endodontics, Pathologies, Maxillofacial Surgery, Periodontics, Laser Surgeries and Laser Therapy are some of the offered treatments that allow painless and successful results. You can visit it",
+    "clinicaLink": "here",
+    "misValoresTitle": "My values",
+    "misValoresText": "Since we start planning the smile with the patient, it is imbued with technology, excellence and maximum standards to meet the objectives of a successful outcome. Not only clinical and professional training elements come together in its production, but also art at its maximum expression.",
+    "contactTitle": "Contact me",
+    "contactPhone": "Phone:",
+    "contactEmail": "Email:"
   },
 
   "Awards": {
     "button": "See",
+    "buttonClose": "Close",
+    "buttonSeeAll": "See all",
     "awardTitle19": "Quality Choice Prize",
     "awardText19": "European Quality Association, Berlin 2019",
+    "awardDescription19": "European Quality Association, Berlin 2019. Awarded by the European Society",
     "awardTitle16": "International Core Quality Achievement",
     "awardText16": "Quality in accordance with the QC100 Criteria. BID - Paris 2019",
+    "awardDescription16": "Awarded in Diamond Category for outstanding business achievements, perseverance and leadership in excellence and quality in accordance with the QC100 Criteria. BID - Paris 2019",
     "awardTitle9": "The Winner Awards",
-    "awardText9": "São Paulo Brasil - 2018"
+    "awardText9": "São Paulo Brasil - 2018",
+    "awardDescription9": "Awarded for outstanding efforts in the field of dentistry and business. São Paulo Brasil - 2018"
   }
 }

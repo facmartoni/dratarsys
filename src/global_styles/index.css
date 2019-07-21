@@ -4,6 +4,53 @@
 
 @import url("https://fonts.googleapis.com/css?family=Cabin|Lobster&display=swap");
 
+/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 21/07/2019 01:09
+*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../iconfonts/Flaticon.eot");
+  src: url("../iconfonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+    url("../iconfonts/Flaticon.woff2") format("woff2"),
+    url("../iconfonts/Flaticon.woff") format("woff"),
+    url("../iconfonts/Flaticon.ttf") format("truetype"),
+    url("../iconfonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio: 0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../iconfonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before,
+[class*=" flaticon-"]:before,
+[class^="flaticon-"]:after,
+[class*=" flaticon-"]:after {
+  font-family: Flaticon;
+  font-size: 40px;
+  font-style: normal;
+}
+
+.flaticon-facebook:before {
+  content: "\f100";
+}
+.flaticon-instagram:before {
+  content: "\f101";
+}
+
+.icon-facebook:before {
+  content: "\e902";
+}
+.icon-instagram:before {
+  content: "\e901";
+}
+
 :root {
   /* Colors */
 
@@ -63,10 +110,6 @@ strong {
   font-weight: 700 !important;
 }
 
-.line_height_12 {
-  line-height: 1.2 !important;
-}
-
 .background_white_color {
   background: var(--white-color) !important;
 }
@@ -109,6 +152,21 @@ strong {
   max-height: none;
 }
 
+.modal-content {
+  -webkit-border-radius: 0px !important;
+  -moz-border-radius: 0px !important;
+  border-radius: 0px !important;
+}
+
+p,
+.line_height_12 {
+  line-height: 1.2 !important;
+}
+
+.border_pink {
+  border: 1px solid var(--action-color) !important;
+}
+
 @media screen and (min-width: 600px) {
   :root {
     --h1: 50px;
@@ -131,6 +189,6 @@ strong {
   }
 
   .max-height-400 {
-    max-height: 400px !important;
+    max-height: 410px !important;
   }
 }

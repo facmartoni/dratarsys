@@ -1,0 +1,7 @@
+.contact_social_network {
+  color: var(--black-color) !important;
+}
+
+.contact_social_network:hover {
+  color: var(--secondary-color) !important;
+}

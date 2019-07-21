@@ -7,7 +7,14 @@
   transform: scale(1.2);
 }
 
-.Award_button:hover {
-  background: var(--black-color) !important;
-  color: var(--white-color) !important;
+@media screen and (max-width: 768px) {
+  .Award:hover {
+    transform: none;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+  .Award {
+    margin-bottom: 50px !important;
+  }
 }
