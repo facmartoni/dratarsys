@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ed4a1b1dabc8cd72067678f6b95032c6",
+    "revision": "51a8b6c4bd224bf381b752ec2fc8b290",
     "url": "/dratarsys/index.html"
   },
   {
-    "revision": "122ddcc0ef6c10ac9e97",
-    "url": "/dratarsys/static/css/main.a6b02d86.chunk.css"
+    "revision": "685a1a42dd118e78a7d5",
+    "url": "/dratarsys/static/css/main.8f4dc7b3.chunk.css"
   },
   {
-    "revision": "7fe81ef8e4977a8290cd",
-    "url": "/dratarsys/static/js/2.1deda908.chunk.js"
+    "revision": "921eaa4f4b90551f2187",
+    "url": "/dratarsys/static/js/2.734517fd.chunk.js"
   },
   {
-    "revision": "122ddcc0ef6c10ac9e97",
-    "url": "/dratarsys/static/js/main.0026e6f1.chunk.js"
+    "revision": "685a1a42dd118e78a7d5",
+    "url": "/dratarsys/static/js/main.ef2ea5ca.chunk.js"
   },
   {
     "revision": "fac92936915afcec5ac6",
@@ -74,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ea493c1ae89f6585d224a49f13f35072",
     "url": "/dratarsys/static/media/Flaticon.ea493c1a.ttf"
+  },
+  {
+    "revision": "bf007d13232fc82de3bf44047ae364eb",
+    "url": "/dratarsys/static/media/carrera.bf007d13.png"
   },
   {
     "revision": "0683710d6bf394e2ec69f9640e6dc89a",
