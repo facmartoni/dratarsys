@@ -1,3 +1,7 @@
+.award {
+  display: inline-block !important;
+}
+
 .card-columns {
   column-count: 1;
 }

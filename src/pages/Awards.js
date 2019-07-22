@@ -36,7 +36,7 @@ export default function Awards() {
                 text={t("awardText19")}
                 button={t("button")}
                 description={t("awardDescription19")}
-                className="mx-4"
+                className="award mx-4"
               />
               <Award
                 image={award16}
@@ -44,7 +44,7 @@ export default function Awards() {
                 text={t("awardText16")}
                 button={t("button")}
                 description={t("awardDescription16")}
-                className="mx-4"
+                className="award mx-4"
               />
               <Award
                 image={award9}
@@ -52,7 +52,7 @@ export default function Awards() {
                 text={t("awardText9")}
                 button={t("button")}
                 description={t("awardDescription9")}
-                className="mx-4"
+                className="award mx-4"
               />
               <Award
                 image={award11}
@@ -60,7 +60,7 @@ export default function Awards() {
                 text={t("awardText11")}
                 button={t("button")}
                 description={t("awardDescription11")}
-                className="mx-4"
+                className="award mx-4"
               />
               <Award
                 image={award15}
@@ -68,7 +68,7 @@ export default function Awards() {
                 text={t("awardText15")}
                 button={t("button")}
                 description={t("awardDescription15")}
-                className="mx-4"
+                className="award mx-4"
               />
               <Award
                 image={award3}
@@ -76,7 +76,7 @@ export default function Awards() {
                 text={t("awardText3")}
                 button={t("button")}
                 description={t("awardDescription3")}
-                className="mx-4"
+                className="award mx-4"
               />
               <Award
                 image={award13}
@@ -84,7 +84,7 @@ export default function Awards() {
                 text={t("awardText13")}
                 button={t("button")}
                 description={t("awardDescription13")}
-                className="mx-4"
+                className="award mx-4"
               />
               <Award
                 image={award7}
@@ -92,7 +92,7 @@ export default function Awards() {
                 text={t("awardText7")}
                 button={t("button")}
                 description={t("awardDescription7")}
-                className="mx-4"
+                className="award mx-4"
               />
             </CardColumns>
           </Col>
