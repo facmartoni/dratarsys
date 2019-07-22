@@ -14,7 +14,7 @@ export default function Header(props) {
 
   return (
     <Navbar
-      collapseOnSelect
+      collapseOnSelect={true}
       expand="md"
       variant="dark"
       className="cabin header header_background"
@@ -31,7 +31,7 @@ export default function Header(props) {
       />
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="ml-auto align-items-md-center">
-          <Nav.Link className="font_white_color">
+          <Nav.Link className="font_white_color" eventKey="0">
             <Link
               className="text-decoration-none text-reset"
               to="/dratarsys/#yo"
@@ -39,7 +39,7 @@ export default function Header(props) {
               {t("yo")}
             </Link>
           </Nav.Link>
-          <Nav.Link className="font_white_color">
+          <Nav.Link className="font_white_color" eventKey="1">
             <Link
               className="text-decoration-none text-reset"
               to="/dratarsys/#marca"
@@ -47,7 +47,7 @@ export default function Header(props) {
               {t("miMarca")}
             </Link>
           </Nav.Link>
-          <Nav.Link className="font_white_color">
+          <Nav.Link className="font_white_color" eventKey="2">
             <Link
               className="text-decoration-none text-reset"
               to="/dratarsys/premios"
@@ -55,7 +55,7 @@ export default function Header(props) {
               {t("premios")}
             </Link>
           </Nav.Link>
-          <Nav.Link className="font_white_color">
+          <Nav.Link className="font_white_color" eventKey="3">
             <Link
               className="text-decoration-none text-reset"
               to="/dratarsys/#clinica"
@@ -63,7 +63,7 @@ export default function Header(props) {
               {t("miClinica")}
             </Link>
           </Nav.Link>
-          <Nav.Link className="font_white_color">
+          <Nav.Link className="font_white_color" eventKey="4">
             <Link
               className="text-decoration-none text-reset"
               to="/dratarsys/#valores"
@@ -71,7 +71,7 @@ export default function Header(props) {
               {t("misValores")}
             </Link>
           </Nav.Link>
-          <Nav.Link className="font_white_color">
+          <Nav.Link className="font_white_color" eventKey="5">
             <Link
               className="text-decoration-none text-reset"
               to="/dratarsys/carrera"
@@ -79,7 +79,7 @@ export default function Header(props) {
               {t("miCarrera")}
             </Link>
           </Nav.Link>
-          <Nav.Link>
+          <Nav.Link eventKey="6">
             <Link
               className="text-decoration-none text-reset"
               to="/dratarsys/#contacto"

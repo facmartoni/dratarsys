@@ -8,6 +8,7 @@
   object-fit: cover;
   object-position: 0 0;
   position: relative;
+  max-width: 100%;
 }
 
 .hero_title_container {

@@ -5,7 +5,7 @@ import { Container, Row, Col, Accordion, Card, Button } from "react-bootstrap";
 import HeroSecondary from "../components/HeroSecondary";
 
 import "./styles/Carrera.css";
-import carreraHeroImage from "../images/premios/2.png";
+import carreraHeroImage from "../images/varios/carrera.png";
 
 export default function Carrera() {
   let t = useTranslate("Carrera");
