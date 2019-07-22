@@ -4,6 +4,7 @@ import { BrowserRouter, Route, Switch } from "react-router-dom";
 
 import Home from "../pages/Home";
 import Awards from "../pages/Awards";
+import Carrera from "../pages/Carrera";
 import Layout from "./Layout";
 
 class App extends Component {
@@ -46,8 +47,9 @@ class App extends Component {
             handleButtonES={this.handleButtonES}
           >
             <Switch>
-              <Route exact path="/" component={Home} />
-              <Route exact path="/premios" component={Awards} />
+              <Route exact path="/dratarsys/" component={Home} />
+              <Route exact path="/dratarsys/premios" component={Awards} />
+              <Route exact path="/dratarsys/carrera" component={Carrera} />
             </Switch>
           </Layout>
         </BrowserRouter>

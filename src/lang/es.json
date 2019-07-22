@@ -71,5 +71,58 @@
     "awardTitle7": "Excellence in Health Care Prize",
     "awardText7": "Acreditación Internacional Quality in Health Care. IOCIM - Chile 2017",
     "awardDescription7": "Premiada por calidad y excelencia en el campo empresarial y odontológico. Acreditación Internacional Quality in Health Care. IOCIM - Chile 2017"
+  },
+
+  "Carrera": {
+    "carreraTitle": "Mi carrera",
+
+    "titulosDeGrado": "Títulos",
+    "grado1": "Odontóloga",
+    "grado2": "DDS (Doctor Dental Surgery)",
+    "grado3": "MDENT",
+
+    "titulosDePosgrado": "Posgrados",
+    "posgrado1": "Magister en Microbiología Médica y Oral",
+    "posgrado2": "Rehabilitación Oral y Estética Dental",
+    "posgrado3": "Implantología Oral",
+    "posgrado4": "Diseño de Sonrisa",
+    "posgrado5": "Software de Diseño de Sonrisa",
+    "posgrado6": "Práctica en Aplicaciones para Medicina Estética No Quirúrgica (cara-cuello)",
+    "posgrado7": "Laboratorio Dental Robótico",
+
+    "congresos": "Congresos",
+    "congreso1": "I Congreso de Infectología",
+    "congreso2": "XII Congreso Colombiano de Medicina Interna (conferencista)",
+    "congreso3": "Congreso Internacional de Implantología",
+    "congreso4": "Biohorizons International Symposium Series - Texas",
+    "congreso5": "Biohorizons International Symposium Series - Miami",
+    "congreso6": "58° Congreso Internacional Reconstrucción del Reborde Maxilar",
+    "congreso7": "59° Congreso Internacional Pre-Implantes - Cartagena",
+    "congreso8": "Biohorizons International Symposium Series - Dubái",
+    "congreso9": "Congreso “El futuro de la tecnología en los implantes” Los Ángeles – California",
+    "congreso10": "Biohorizons International Symposium Series. Bangkok",
+
+    "membresias": "Membresías",
+    "membresia1": "Miembro de la ACP, Asociación Colombiana de Prostodoncia",
+    "membresia2": "Miembro de la AACD, American Academies of Cosmetic Dentistry",
+    "membresia3": "Miembro de la IAA, International Academy of Aesthetics",
+    "membresia4": "Miembro de la ADA, American Dental Association",
+    "membresia5": "Miembro Elite de la IOCIM, Organización Internacional para la Capacitación e Investigación Médica",
+
+    "habilitaciones": "Habilitaciones",
+    "habilitacion1": "Odontología General",
+    "habilitacion2": "Rehabilitación Oral",
+    "habilitacion3": "Implantología Oral",
+    "habilitacion4": "Cirugía Maxilofacial",
+    "habilitacion5": "Cirugía Oral",
+    "habilitacion6": "Periodoncia",
+    "habilitacion7": "Medicina Estética",
+    "habilitacion8": "Otras consultas de especialidad",
+
+    "entrenamientos": "Entrenamientos",
+    "entrenamiento1": "Estética Dental y Rehabilitación Oral",
+    "entrenamiento2": "Operatoria Adhesiva",
+    "entrenamiento3": "Estomatología y Cirugía Maxilofacial",
+    "entrenamiento4": "Manejo Quirúrgico y Protésico del Maxilar totalmente edéntulado"
   }
 }

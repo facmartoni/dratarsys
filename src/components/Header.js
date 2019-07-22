@@ -21,7 +21,7 @@ export default function Header(props) {
       py={0}
     >
       <Navbar.Brand>
-        <Link to="/">
+        <Link to="/dratarsys/">
           <Image src={Logo} height="50px" width="50px" />
         </Link>
       </Navbar.Brand>
@@ -32,37 +32,58 @@ export default function Header(props) {
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav className="ml-auto align-items-md-center">
           <Nav.Link className="font_white_color">
-            <Link className="text-decoration-none text-reset" to="/#yo">
+            <Link
+              className="text-decoration-none text-reset"
+              to="/dratarsys/#yo"
+            >
               {t("yo")}
             </Link>
           </Nav.Link>
           <Nav.Link className="font_white_color">
-            <Link className="text-decoration-none text-reset" to="/#marca">
+            <Link
+              className="text-decoration-none text-reset"
+              to="/dratarsys/#marca"
+            >
               {t("miMarca")}
             </Link>
           </Nav.Link>
           <Nav.Link className="font_white_color">
-            <Link className="text-decoration-none text-reset" to="/premios">
+            <Link
+              className="text-decoration-none text-reset"
+              to="/dratarsys/premios"
+            >
               {t("premios")}
             </Link>
           </Nav.Link>
           <Nav.Link className="font_white_color">
-            <Link className="text-decoration-none text-reset" to="/#clinica">
+            <Link
+              className="text-decoration-none text-reset"
+              to="/dratarsys/#clinica"
+            >
               {t("miClinica")}
             </Link>
           </Nav.Link>
           <Nav.Link className="font_white_color">
-            <Link className="text-decoration-none text-reset" to="/#valores">
+            <Link
+              className="text-decoration-none text-reset"
+              to="/dratarsys/#valores"
+            >
               {t("misValores")}
             </Link>
           </Nav.Link>
           <Nav.Link className="font_white_color">
-            <Link className="text-decoration-none text-reset" to="/carrera">
+            <Link
+              className="text-decoration-none text-reset"
+              to="/dratarsys/carrera"
+            >
               {t("miCarrera")}
             </Link>
           </Nav.Link>
           <Nav.Link>
-            <Link className="text-decoration-none text-reset" to="/#contacto">
+            <Link
+              className="text-decoration-none text-reset"
+              to="/dratarsys/#contacto"
+            >
               <ButtonPink>{t("contactame")}</ButtonPink>
             </Link>
           </Nav.Link>

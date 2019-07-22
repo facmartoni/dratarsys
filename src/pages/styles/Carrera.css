@@ -1,0 +1,7 @@
+.carrera_container {
+  min-height: calc(100vh - 391px);
+}
+
+.card_header {
+  cursor: pointer;
+}

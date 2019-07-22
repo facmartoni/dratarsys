@@ -10,7 +10,7 @@ export default function HeroSecondary(props) {
   return (
     <Row noGutters>
       <Col>
-        <div className="herosecondary">
+        <div className="herosecondary" id={props.id}>
           <LazyLoad>
             <Image src={props.image} className="herosecondary_image" />
           </LazyLoad>

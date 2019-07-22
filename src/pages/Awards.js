@@ -21,7 +21,11 @@ export default function Awards() {
 
   return (
     <>
-      <HeroSecondary image={awardHeroImage} title={t("awardsTitle")} />
+      <HeroSecondary
+        id="premiosPage"
+        image={awardHeroImage}
+        title={t("awardsTitle")}
+      />
       <Container fluid className="background_secondary_color py-4">
         <Row className="text-center">
           <Col className="d-flex justify-content-center">

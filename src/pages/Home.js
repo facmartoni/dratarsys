@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from "react-router-dom";
+import { HashLink as Link } from "react-router-hash-link";
 import { useTranslate } from "react-translate";
 
 import { Container, Row, Col } from "react-bootstrap";
@@ -90,7 +90,7 @@ export default function Home(props) {
           </Col>
         </Row>
         <Row className="d-flex justify-content-center">
-          <Link to="/premios">
+          <Link to="/dratarsys/premios#premiosPage">
             <ButtonPink className="border_pink">
               <p>{tAwards("buttonSeeAll")}</p>
             </ButtonPink>

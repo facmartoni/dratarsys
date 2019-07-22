@@ -71,5 +71,58 @@
     "awardTitle7": "Excellence in Health Care Prize",
     "awardText7": "Quality in Health Care International Accreditation. IOCIM - Chile 2017",
     "awardDescription7": "Awarded for quality and excellence in the business and dental fields. Quality in Health Care International Accreditation. IOCIM - Chile 2017"
+  },
+
+  "Carrera": {
+    "carreraTitle": "My career",
+
+    "titulosDeGrado": "Degrees",
+    "grado1": "Dentist",
+    "grado2": "DDS (Doctor Dental Surgery)",
+    "grado3": "MDENT",
+
+    "titulosDePosgrado": "Graduate degrees",
+    "posgrado1": "Master in Medical and Oral Microbiology",
+    "posgrado2": "Oral Rehabilitation and Dental Aesthetics",
+    "posgrado3": "Oral Implantology",
+    "posgrado4": "Smile Design",
+    "posgrado5": "Smile Design Software",
+    "posgrado6": "Practice in Applications for Non-Surgical Aesthetic Medicine (face-neck)",
+    "posgrado7": "Robotic Dental Laboratory",
+
+    "congresos": "Congresses",
+    "congreso1": "I Congress of Infectology",
+    "congreso2": "XII Colombian Congress of Internal Medicine (speaker)",
+    "congreso3": "International Implantology Congress",
+    "congreso4": "Biohorizons International Symposium Series - Texas",
+    "congreso5": "Biohorizons International Symposium Series - Miami",
+    "congreso6": "58th International Congress of Reconstruction of the Maxillary Flange",
+    "congreso7": "59th International Congress Pre-Implants - Cartagena",
+    "congreso8": "Biohorizons International Symposium Series - Dubái",
+    "congreso9": "Congress \"The future of technology in implants\" Los Angeles - California",
+    "congreso10": "Biohorizons International Symposium Series. Bangkok",
+
+    "membresias": "Memberships",
+    "membresia1": "Member of the ACP, Colombian Association of Prosthodontics",
+    "membresia2": "Member of the AACD, American Academies of Cosmetic Dentistry",
+    "membresia3": "Member of the IAA, International Academy of Aesthetics",
+    "membresia4": "Member of the ADA, American Dental Association",
+    "membresia5": "Elite member of the IOCIM, International Organization for Training and Medical Research",
+
+    "habilitaciones": "Qualifications",
+    "habilitacion1": "General odontology",
+    "habilitacion2": "Oral Rehabilitation",
+    "habilitacion3": "Oral Implantology",
+    "habilitacion4": "Maxillofacial Surgery",
+    "habilitacion5": "Oral Surgery",
+    "habilitacion6": "Periodontics",
+    "habilitacion7": "Aesthetic Medicine",
+    "habilitacion8": "Other specialty inquiries",
+
+    "entrenamientos": "Training",
+    "entrenamiento1": "Dental Aesthetics and Oral Rehabilitation",
+    "entrenamiento2": "Adhesive Operatory",
+    "entrenamiento3": "Stomatology and Maxillofacial Surgery",
+    "entrenamiento4": "Surgical and Prosthetic Management of the totally edentulous maxilla"
   }
 }
