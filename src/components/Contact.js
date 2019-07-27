@@ -17,7 +17,11 @@ export default function Contact() {
           </h2>
           <p className="big_text">
             {t("contactPhone")}{" "}
-            <a className="font_secondary_color" href="tel:+573103664278">
+            <a
+              className="font_secondary_color"
+              href="https://api.whatsapp.com/send?phone=573103664278&text=Consulta+Instagram"
+              target="_blank"
+            >
               +57 310 3664278
             </a>
           </p>
