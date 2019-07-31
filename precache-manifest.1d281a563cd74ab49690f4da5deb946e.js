@@ -1,18 +1,18 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09a639e221236e8368805ad317863ff4",
+    "revision": "e258089cefd812ac2238eee31d14ffa2",
     "url": "/dratarsys/index.html"
   },
   {
-    "revision": "c9fde7aed61a9fd4225b",
-    "url": "/dratarsys/static/css/main.4618602e.chunk.css"
+    "revision": "127c002f1e492b381b86",
+    "url": "/dratarsys/static/css/main.0a58c01a.chunk.css"
   },
   {
     "revision": "1c026a8108a80a444792",
     "url": "/dratarsys/static/js/2.ee7afe6a.chunk.js"
   },
   {
-    "revision": "c9fde7aed61a9fd4225b",
+    "revision": "127c002f1e492b381b86",
     "url": "/dratarsys/static/js/main.0bd9f4f4.chunk.js"
   },
   {

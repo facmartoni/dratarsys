@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dratarsys/static/css/main.4618602e.chunk.css",
+    "main.css": "/dratarsys/static/css/main.0a58c01a.chunk.css",
     "main.js": "/dratarsys/static/js/main.0bd9f4f4.chunk.js",
     "main.js.map": "/dratarsys/static/js/main.0bd9f4f4.chunk.js.map",
     "runtime~main.js": "/dratarsys/static/js/runtime~main.e540bb66.js",
@@ -8,9 +8,9 @@
     "static/js/2.ee7afe6a.chunk.js": "/dratarsys/static/js/2.ee7afe6a.chunk.js",
     "static/js/2.ee7afe6a.chunk.js.map": "/dratarsys/static/js/2.ee7afe6a.chunk.js.map",
     "index.html": "/dratarsys/index.html",
-    "precache-manifest.801f9c976b19d57b5e6015806a4d895e.js": "/dratarsys/precache-manifest.801f9c976b19d57b5e6015806a4d895e.js",
+    "precache-manifest.1d281a563cd74ab49690f4da5deb946e.js": "/dratarsys/precache-manifest.1d281a563cd74ab49690f4da5deb946e.js",
     "service-worker.js": "/dratarsys/service-worker.js",
-    "static/css/main.4618602e.chunk.css.map": "/dratarsys/static/css/main.4618602e.chunk.css.map",
+    "static/css/main.0a58c01a.chunk.css.map": "/dratarsys/static/css/main.0a58c01a.chunk.css.map",
     "static/media/11.png": "/dratarsys/static/media/11.24157b68.png",
     "static/media/13.png": "/dratarsys/static/media/13.df7397cd.png",
     "static/media/15.png": "/dratarsys/static/media/15.4035ccb1.png",
