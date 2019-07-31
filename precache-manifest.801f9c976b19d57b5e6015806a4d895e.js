@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "51a8b6c4bd224bf381b752ec2fc8b290",
+    "revision": "09a639e221236e8368805ad317863ff4",
     "url": "/dratarsys/index.html"
   },
   {
-    "revision": "685a1a42dd118e78a7d5",
-    "url": "/dratarsys/static/css/main.8f4dc7b3.chunk.css"
+    "revision": "c9fde7aed61a9fd4225b",
+    "url": "/dratarsys/static/css/main.4618602e.chunk.css"
   },
   {
-    "revision": "921eaa4f4b90551f2187",
-    "url": "/dratarsys/static/js/2.734517fd.chunk.js"
+    "revision": "1c026a8108a80a444792",
+    "url": "/dratarsys/static/js/2.ee7afe6a.chunk.js"
   },
   {
-    "revision": "685a1a42dd118e78a7d5",
-    "url": "/dratarsys/static/js/main.ef2ea5ca.chunk.js"
+    "revision": "c9fde7aed61a9fd4225b",
+    "url": "/dratarsys/static/js/main.0bd9f4f4.chunk.js"
   },
   {
     "revision": "fac92936915afcec5ac6",
@@ -76,6 +76,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dratarsys/static/media/Flaticon.ea493c1a.ttf"
   },
   {
+    "revision": "e8b5bec93b6f9532d725f9ea38cbeeac",
+    "url": "/dratarsys/static/media/business_management_award_2018.e8b5bec9.png"
+  },
+  {
     "revision": "bf007d13232fc82de3bf44047ae364eb",
     "url": "/dratarsys/static/media/carrera.bf007d13.png"
   },
@@ -84,8 +88,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dratarsys/static/media/consultorio_9.0683710d.png"
   },
   {
+    "revision": "d9f520981e76f6f19cd32a293c30e7a2",
+    "url": "/dratarsys/static/media/international_core_quality_achievement_paris_2019.d9f52098.png"
+  },
+  {
+    "revision": "ce00b31ab86cd57c92097ad8854f01d3",
+    "url": "/dratarsys/static/media/international_star_for_quality_ginebra_2017.ce00b31a.png"
+  },
+  {
     "revision": "014e7f257cf10696f00a301daca15a47",
     "url": "/dratarsys/static/media/isotipo_white.014e7f25.png"
+  },
+  {
+    "revision": "392c50282f61270515f987a322374109",
+    "url": "/dratarsys/static/media/quality_choice_prize_berlin_2019.392c5028.png"
+  },
+  {
+    "revision": "1de6048060996857a49acc5db4e803d3",
+    "url": "/dratarsys/static/media/quality_summit_awards_new_york_2018.1de60480.png"
   },
   {
     "revision": "c81722cd79812cf0c5a974576f001c6d",
@@ -96,7 +116,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dratarsys/static/media/smile.402908cd.png"
   },
   {
-    "revision": "019706a19b883ac77d67aadedd47b6ff",
-    "url": "/dratarsys/static/media/tarsys_3_gris.019706a1.png"
+    "revision": "3c6021aba1007573dc1c37bfb2ba7d78",
+    "url": "/dratarsys/static/media/tarsys_3_gris.3c6021ab.png"
   }
 ]);
