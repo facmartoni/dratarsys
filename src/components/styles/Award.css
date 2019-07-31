@@ -3,6 +3,12 @@
   transition: 0.3s;
 }
 
+.Award_modal_image {
+  height: 300px;
+  object-fit: cover;
+  object-position: top;
+}
+
 .Award:hover {
   transform: scale(1.2);
 }

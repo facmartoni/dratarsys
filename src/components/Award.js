@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { useTranslate } from "react-translate";
 
-import { Card, Modal, Image } from "react-bootstrap";
+import { Card, Modal, Image, Carousel } from "react-bootstrap";
 import ButtonPink from "./ButtonPink";
 
 import "./styles/Award.css";
@@ -54,7 +54,24 @@ export default function Award(props) {
           </Modal.Title>
         </Modal.Header>
         <Modal.Body className="text-center d-flex flex-column align-items-center">
-          <Image src={props.image} className="w-100 mb-3" />
+          {props.delivery ? (
+            <Carousel className="w-100 mb-3">
+              <Carousel.Item>
+                <Image
+                  src={props.image}
+                  className="w-100 mb-3 Award_modal_image"
+                />
+              </Carousel.Item>
+              <Carousel.Item>
+                <Image
+                  src={props.delivery}
+                  className="w-100 mb-3 Award_modal_image"
+                />
+              </Carousel.Item>
+            </Carousel>
+          ) : (
+            <Image src={props.image} className="w-100 mb-3 Award_modal_image" />
+          )}
           <p className="line_height_12">{props.description}</p>
         </Modal.Body>
         <Modal.Footer className="text-center d-flex flex-column align-items-center">

@@ -13,7 +13,9 @@ import renaissanceHollywood from "../images/varios/renaissance_hollywood.png";
 import consultorio from "../images/consultorio/consultorio_9.png";
 import smile from "../images/varios/smile.png";
 import award19 from "../images/premios/19.png";
+import awardDelivery19 from "../images/entrega_premios/quality_choice_prize_berlin_2019.png";
 import award16 from "../images/premios/16.png";
+import awardDelivery16 from "../images/entrega_premios/international_core_quality_achievement_paris_2019.png";
 import award9 from "../images/premios/9.png";
 import Contact from "../components/Contact";
 
@@ -68,6 +70,7 @@ export default function Home(props) {
               text={tAwards("awardText19")}
               button={tAwards("button")}
               description={tAwards("awardDescription19")}
+              delivery={awardDelivery19}
             />
           </Col>
           <Col className="d-flex justify-content-center">
@@ -77,6 +80,7 @@ export default function Home(props) {
               text={tAwards("awardText16")}
               button={tAwards("button")}
               description={tAwards("awardDescription16")}
+              delivery={awardDelivery16}
             />
           </Col>
           <Col className="d-flex justify-content-center">

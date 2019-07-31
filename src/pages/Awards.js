@@ -8,12 +8,17 @@ import "./styles/Awards.css";
 import HeroSecondary from "../components/HeroSecondary";
 import awardHeroImage from "../images/premios/2.png";
 import award19 from "../images/premios/19.png";
+import awardDelivery19 from "../images/entrega_premios/quality_choice_prize_berlin_2019.png";
 import award16 from "../images/premios/16.png";
+import awardDelivery16 from "../images/entrega_premios/international_core_quality_achievement_paris_2019.png";
 import award9 from "../images/premios/9.png";
 import award11 from "../images/premios/11.png";
+import awardDelivery11 from "../images/entrega_premios/quality_summit_awards_new_york_2018.png";
 import award15 from "../images/premios/15.png";
+import awardDelivery15 from "../images/entrega_premios/business_management_award_2018.png";
 import award3 from "../images/premios/3.png";
 import award13 from "../images/premios/13.png";
+import awardDelivery13 from "../images/entrega_premios/international_star_for_quality_ginebra_2017.png";
 import award7 from "../images/premios/7.png";
 
 export default function Awards() {
@@ -37,6 +42,7 @@ export default function Awards() {
                 button={t("button")}
                 description={t("awardDescription19")}
                 className="award mx-4"
+                delivery={awardDelivery19}
               />
               <Award
                 image={award16}
@@ -45,6 +51,7 @@ export default function Awards() {
                 button={t("button")}
                 description={t("awardDescription16")}
                 className="award mx-4"
+                delivery={awardDelivery16}
               />
               <Award
                 image={award9}
@@ -61,6 +68,7 @@ export default function Awards() {
                 button={t("button")}
                 description={t("awardDescription11")}
                 className="award mx-4"
+                delivery={awardDelivery11}
               />
               <Award
                 image={award15}
@@ -69,6 +77,7 @@ export default function Awards() {
                 button={t("button")}
                 description={t("awardDescription15")}
                 className="award mx-4"
+                delivery={awardDelivery15}
               />
               <Award
                 image={award3}
@@ -85,6 +94,7 @@ export default function Awards() {
                 button={t("button")}
                 description={t("awardDescription13")}
                 className="award mx-4"
+                delivery={awardDelivery13}
               />
               <Award
                 image={award7}
