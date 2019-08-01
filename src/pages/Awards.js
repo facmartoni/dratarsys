@@ -12,6 +12,7 @@ import awardDelivery19 from "../images/entrega_premios/quality_choice_prize_berl
 import award16 from "../images/premios/16.png";
 import awardDelivery16 from "../images/entrega_premios/international_core_quality_achievement_paris_2019.png";
 import award9 from "../images/premios/9.png";
+import awardDelivery9 from "../images/entrega_premios/the_winner_awards_brasil_2018.png";
 import award11 from "../images/premios/11.png";
 import awardDelivery11 from "../images/entrega_premios/quality_summit_awards_new_york_2018.png";
 import award15 from "../images/premios/15.png";
@@ -20,6 +21,7 @@ import award3 from "../images/premios/3.png";
 import award13 from "../images/premios/13.png";
 import awardDelivery13 from "../images/entrega_premios/international_star_for_quality_ginebra_2017.png";
 import award7 from "../images/premios/7.png";
+import awardDelivery7 from "../images/entrega_premios/excellence_in_health_care_prize_chile_2017.png";
 
 export default function Awards() {
   let t = useTranslate("Awards");
@@ -60,6 +62,7 @@ export default function Awards() {
                 button={t("button")}
                 description={t("awardDescription9")}
                 className="award mx-4"
+                delivery={awardDelivery9}
               />
               <Award
                 image={award11}
@@ -103,6 +106,7 @@ export default function Awards() {
                 button={t("button")}
                 description={t("awardDescription7")}
                 className="award mx-4"
+                delivery={awardDelivery7}
               />
             </CardColumns>
           </Col>
