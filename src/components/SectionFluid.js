@@ -1,5 +1,5 @@
 import React from "react";
-import { Row, Col, Image } from "react-bootstrap";
+import { Row, Col, Image, Carousel } from "react-bootstrap";
 
 import "./styles/SectionFluid.css";
 
@@ -26,7 +26,21 @@ export default function SectionFluid(props) {
         md={{ span: 6, order: orderFirstCol }}
         className={props.className}
       >
-        <Image src={props.image} className="SectionFluid_image w-100" />
+        {props.slider ? (
+          <Carousel className="w-100 h-100" indicators={false}>
+            <Carousel.Item>
+              <Image src={props.image} className="SectionFluid_image w-100" />
+            </Carousel.Item>
+            <Carousel.Item>
+              <Image src={props.image2} className="SectionFluid_image w-100" />
+            </Carousel.Item>
+            <Carousel.Item>
+              <Image src={props.image3} className="SectionFluid_image w-100" />
+            </Carousel.Item>
+          </Carousel>
+        ) : (
+          <Image src={props.image} className="SectionFluid_image w-100" />
+        )}
       </Col>
       <Col
         xs={12}

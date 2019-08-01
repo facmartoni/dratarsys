@@ -10,13 +10,16 @@ import Award from "../components/Award";
 import ButtonPink from "../components/ButtonPink";
 
 import renaissanceHollywood from "../images/varios/renaissance_hollywood.png";
-import consultorio from "../images/consultorio/consultorio_9.png";
+import consultorio1 from "../images/consultorio/consultorio_9.png";
+import consultorio2 from "../images/consultorio/consultorio_7.png";
+import consultorio3 from "../images/consultorio/consultorio_8.png";
 import smile from "../images/varios/smile.png";
 import award19 from "../images/premios/19.png";
 import awardDelivery19 from "../images/entrega_premios/quality_choice_prize_berlin_2019.png";
 import award16 from "../images/premios/16.png";
 import awardDelivery16 from "../images/entrega_premios/international_core_quality_achievement_paris_2019.png";
 import award9 from "../images/premios/9.png";
+import awardDelivery9 from "../images/entrega_premios/the_winner_awards_brasil_2018.png";
 import Contact from "../components/Contact";
 
 export default function Home(props) {
@@ -90,6 +93,7 @@ export default function Home(props) {
               text={tAwards("awardText9")}
               button={tAwards("button")}
               description={tAwards("awardDescription9")}
+              delivery={awardDelivery9}
             />
           </Col>
         </Row>
@@ -102,7 +106,10 @@ export default function Home(props) {
         </Row>
       </Container>
       <SectionFluid
-        image={consultorio}
+        slider={true}
+        image={consultorio1}
+        image2={consultorio2}
+        image3={consultorio3}
         color="background_secondary_color"
         order="textfirst"
         className="max-height-400"

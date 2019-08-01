@@ -1,3 +1,12 @@
+/* Start Bootstrap modification */
+
+.carousel-inner,
+.carousel-item {
+  height: 100% !important;
+}
+
+/* End Bootstrap modification */
+
 .SectionFluid_image {
   object-fit: cover;
   height: 100%;
