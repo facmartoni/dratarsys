@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e258089cefd812ac2238eee31d14ffa2",
+    "revision": "73a28a583228da111ce26aee46de2754",
     "url": "/dratarsys/index.html"
   },
   {
-    "revision": "127c002f1e492b381b86",
-    "url": "/dratarsys/static/css/main.0a58c01a.chunk.css"
+    "revision": "1439abe8148c3c49c305",
+    "url": "/dratarsys/static/css/main.4dae1eb0.chunk.css"
   },
   {
-    "revision": "1c026a8108a80a444792",
-    "url": "/dratarsys/static/js/2.ee7afe6a.chunk.js"
+    "revision": "803adf68e8d5a7a2ab9e",
+    "url": "/dratarsys/static/js/2.553423c5.chunk.js"
   },
   {
-    "revision": "127c002f1e492b381b86",
-    "url": "/dratarsys/static/js/main.0bd9f4f4.chunk.js"
+    "revision": "1439abe8148c3c49c305",
+    "url": "/dratarsys/static/js/main.bee9229e.chunk.js"
   },
   {
     "revision": "fac92936915afcec5ac6",
@@ -84,8 +84,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dratarsys/static/media/carrera.bf007d13.png"
   },
   {
+    "revision": "e0f7ba0b9e7c44e17f39f6a6e44b91f9",
+    "url": "/dratarsys/static/media/consultorio_7.e0f7ba0b.png"
+  },
+  {
+    "revision": "5059b0bb250dc7b568a6e449a6306005",
+    "url": "/dratarsys/static/media/consultorio_8.5059b0bb.png"
+  },
+  {
     "revision": "0683710d6bf394e2ec69f9640e6dc89a",
     "url": "/dratarsys/static/media/consultorio_9.0683710d.png"
+  },
+  {
+    "revision": "8410dccbc3e39fb2ef752dd1fb2afbec",
+    "url": "/dratarsys/static/media/excellence_in_health_care_prize_chile_2017.8410dccb.png"
   },
   {
     "revision": "d9f520981e76f6f19cd32a293c30e7a2",
@@ -118,5 +130,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3c6021aba1007573dc1c37bfb2ba7d78",
     "url": "/dratarsys/static/media/tarsys_3_gris.3c6021ab.png"
+  },
+  {
+    "revision": "9f07f7cd0abf5c3fac2ac5e3062d03dc",
+    "url": "/dratarsys/static/media/the_winner_awards_brasil_2018.9f07f7cd.png"
   }
 ]);
