@@ -48,8 +48,8 @@ class App extends Component {
           >
             <Switch>
               <Route exact path="/" component={Home} />
-              <Route exact path="/premios" component={Awards} />
-              <Route exact path="/carrera" component={Carrera} />
+              <Route exact path="/premios/" component={Awards} />
+              <Route exact path="/carrera/" component={Carrera} />
             </Switch>
           </Layout>
         </BrowserRouter>
