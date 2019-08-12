@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dratarsys/static/css/main.4dae1eb0.chunk.css",
-    "main.js": "/dratarsys/static/js/main.bee9229e.chunk.js",
-    "main.js.map": "/dratarsys/static/js/main.bee9229e.chunk.js.map",
+    "main.js": "/dratarsys/static/js/main.9cecbd4b.chunk.js",
+    "main.js.map": "/dratarsys/static/js/main.9cecbd4b.chunk.js.map",
     "runtime~main.js": "/dratarsys/static/js/runtime~main.e540bb66.js",
     "runtime~main.js.map": "/dratarsys/static/js/runtime~main.e540bb66.js.map",
-    "static/js/2.553423c5.chunk.js": "/dratarsys/static/js/2.553423c5.chunk.js",
-    "static/js/2.553423c5.chunk.js.map": "/dratarsys/static/js/2.553423c5.chunk.js.map",
+    "static/js/2.1d8700b9.chunk.js": "/dratarsys/static/js/2.1d8700b9.chunk.js",
+    "static/js/2.1d8700b9.chunk.js.map": "/dratarsys/static/js/2.1d8700b9.chunk.js.map",
     "index.html": "/dratarsys/index.html",
-    "precache-manifest.3fdbc4641025092a571ce7f29492f1cd.js": "/dratarsys/precache-manifest.3fdbc4641025092a571ce7f29492f1cd.js",
+    "precache-manifest.7ee69617c1c0d61dfcb7123aecc6548c.js": "/dratarsys/precache-manifest.7ee69617c1c0d61dfcb7123aecc6548c.js",
     "service-worker.js": "/dratarsys/service-worker.js",
     "static/css/main.4dae1eb0.chunk.css.map": "/dratarsys/static/css/main.4dae1eb0.chunk.css.map",
     "static/media/11.png": "/dratarsys/static/media/11.24157b68.png",
@@ -30,11 +30,12 @@
     "static/media/international_core_quality_achievement_paris_2019.png": "/dratarsys/static/media/international_core_quality_achievement_paris_2019.d9f52098.png",
     "static/media/international_star_for_quality_ginebra_2017.png": "/dratarsys/static/media/international_star_for_quality_ginebra_2017.ce00b31a.png",
     "static/media/isotipo_white.png": "/dratarsys/static/media/isotipo_white.014e7f25.png",
-    "static/media/quality_choice_prize_berlin_2019.png": "/dratarsys/static/media/quality_choice_prize_berlin_2019.392c5028.png",
+    "static/media/quality_choice_prize_berlin_2019.png": "/dratarsys/static/media/quality_choice_prize_berlin_2019.aaa8da73.png",
     "static/media/quality_summit_awards_new_york_2018.png": "/dratarsys/static/media/quality_summit_awards_new_york_2018.1de60480.png",
     "static/media/renaissance_hollywood.png": "/dratarsys/static/media/renaissance_hollywood.c81722cd.png",
     "static/media/smile.png": "/dratarsys/static/media/smile.402908cd.png",
     "static/media/tarsys_3_gris.png": "/dratarsys/static/media/tarsys_3_gris.3c6021ab.png",
-    "static/media/the_winner_awards_brasil_2018.png": "/dratarsys/static/media/the_winner_awards_brasil_2018.9f07f7cd.png"
+    "static/media/the_winner_awards_brasil_2018.png": "/dratarsys/static/media/the_winner_awards_brasil_2018.9f07f7cd.png",
+    "static/media/the_winner_awards_new_york_2019.png": "/dratarsys/static/media/the_winner_awards_new_york_2019.e21fb118.png"
   }
 }

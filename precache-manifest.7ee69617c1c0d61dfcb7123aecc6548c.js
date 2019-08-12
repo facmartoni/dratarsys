@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "73a28a583228da111ce26aee46de2754",
+    "revision": "f265c04bcb579aabaddc2d8f1e651056",
     "url": "/dratarsys/index.html"
   },
   {
-    "revision": "1439abe8148c3c49c305",
+    "revision": "8a402ca797001c0d57fb",
     "url": "/dratarsys/static/css/main.4dae1eb0.chunk.css"
   },
   {
-    "revision": "803adf68e8d5a7a2ab9e",
-    "url": "/dratarsys/static/js/2.553423c5.chunk.js"
+    "revision": "afd288e6ba5c2150dbda",
+    "url": "/dratarsys/static/js/2.1d8700b9.chunk.js"
   },
   {
-    "revision": "1439abe8148c3c49c305",
-    "url": "/dratarsys/static/js/main.bee9229e.chunk.js"
+    "revision": "8a402ca797001c0d57fb",
+    "url": "/dratarsys/static/js/main.9cecbd4b.chunk.js"
   },
   {
     "revision": "fac92936915afcec5ac6",
@@ -112,8 +112,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dratarsys/static/media/isotipo_white.014e7f25.png"
   },
   {
-    "revision": "392c50282f61270515f987a322374109",
-    "url": "/dratarsys/static/media/quality_choice_prize_berlin_2019.392c5028.png"
+    "revision": "aaa8da73e000c7f99f45bfebf00a2078",
+    "url": "/dratarsys/static/media/quality_choice_prize_berlin_2019.aaa8da73.png"
   },
   {
     "revision": "1de6048060996857a49acc5db4e803d3",
@@ -134,5 +134,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9f07f7cd0abf5c3fac2ac5e3062d03dc",
     "url": "/dratarsys/static/media/the_winner_awards_brasil_2018.9f07f7cd.png"
+  },
+  {
+    "revision": "e21fb1189de1c0a9569bc2b698b42762",
+    "url": "/dratarsys/static/media/the_winner_awards_new_york_2019.e21fb118.png"
   }
 ]);
