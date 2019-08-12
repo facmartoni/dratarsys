@@ -7,6 +7,8 @@ import Award from "../components/Award";
 import "./styles/Awards.css";
 import HeroSecondary from "../components/HeroSecondary";
 import awardHeroImage from "../images/premios/2.png";
+import award20 from "../images/premios/19.png";
+import awardDelivery20 from "../images/entrega_premios/the_winner_awards_new_york_2019.png";
 import award19 from "../images/premios/19.png";
 import awardDelivery19 from "../images/entrega_premios/quality_choice_prize_berlin_2019.png";
 import award16 from "../images/premios/16.png";
@@ -37,13 +39,22 @@ export default function Awards() {
         <Row className="text-center">
           <Col className="d-flex justify-content-center">
             <CardColumns>
+              {/* <Award
+                image={award19}
+                title={t("awardTitle20")}
+                text={t("awardText20")}
+                button={t("button")}
+                description={t("awardDescription20")}
+                className="award"
+                delivery={awardDelivery20}
+              /> */}
               <Award
                 image={award19}
                 title={t("awardTitle19")}
                 text={t("awardText19")}
                 button={t("button")}
                 description={t("awardDescription19")}
-                className="award mx-4"
+                className="award"
                 delivery={awardDelivery19}
               />
               <Award
@@ -52,7 +63,7 @@ export default function Awards() {
                 text={t("awardText16")}
                 button={t("button")}
                 description={t("awardDescription16")}
-                className="award mx-4"
+                className="award"
                 delivery={awardDelivery16}
               />
               <Award
@@ -61,7 +72,7 @@ export default function Awards() {
                 text={t("awardText9")}
                 button={t("button")}
                 description={t("awardDescription9")}
-                className="award mx-4"
+                className="award"
                 delivery={awardDelivery9}
               />
               <Award
@@ -70,7 +81,7 @@ export default function Awards() {
                 text={t("awardText11")}
                 button={t("button")}
                 description={t("awardDescription11")}
-                className="award mx-4"
+                className="award"
                 delivery={awardDelivery11}
               />
               <Award
@@ -79,7 +90,7 @@ export default function Awards() {
                 text={t("awardText15")}
                 button={t("button")}
                 description={t("awardDescription15")}
-                className="award mx-4"
+                className="award"
                 delivery={awardDelivery15}
               />
               <Award
@@ -88,7 +99,7 @@ export default function Awards() {
                 text={t("awardText3")}
                 button={t("button")}
                 description={t("awardDescription3")}
-                className="award mx-4"
+                className="award"
               />
               <Award
                 image={award13}
@@ -96,7 +107,7 @@ export default function Awards() {
                 text={t("awardText13")}
                 button={t("button")}
                 description={t("awardDescription13")}
-                className="award mx-4"
+                className="award"
                 delivery={awardDelivery13}
               />
               <Award
@@ -105,7 +116,7 @@ export default function Awards() {
                 text={t("awardText7")}
                 button={t("button")}
                 description={t("awardDescription7")}
-                className="award mx-4"
+                className="award"
                 delivery={awardDelivery7}
               />
             </CardColumns>

@@ -19,7 +19,7 @@ export default function Award(props) {
         style={{ width: "18rem" }}
         className={
           props.className +
-          " Award d-flex flex-column align-items-center rounded-0 mb-4"
+          " Award d-flex flex-column align-items-center rounded-0 mb-4 mx-0"
         }
         onClick={handleShow}
       >
