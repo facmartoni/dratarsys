@@ -47,9 +47,9 @@ class App extends Component {
             handleButtonES={this.handleButtonES}
           >
             <Switch>
-              <Route exact path="/dratarsys/" component={Home} />
-              <Route exact path="/dratarsys/premios" component={Awards} />
-              <Route exact path="/dratarsys/carrera" component={Carrera} />
+              <Route exact path="/" component={Home} />
+              <Route exact path="/premios" component={Awards} />
+              <Route exact path="/carrera" component={Carrera} />
             </Switch>
           </Layout>
         </BrowserRouter>

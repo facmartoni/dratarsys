@@ -27,8 +27,11 @@ export default function Contact() {
           </p>
           <p className="big_text">
             {t("contactEmail")}{" "}
-            <a className="font_secondary_color" href="mailto:soy@dratarsys.com">
-              soy@dratarsys.com
+            <a
+              className="font_secondary_color"
+              href={`mailto:${t("contactEmailDirection")}`}
+            >
+              {t("contactEmailDirection")}
             </a>
           </p>
           <div className="mt-4">

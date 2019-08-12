@@ -98,7 +98,7 @@ export default function Home(props) {
           </Col>
         </Row>
         <Row className="d-flex justify-content-center">
-          <Link to="/dratarsys/premios#premiosPage">
+          <Link to="/premios#premiosPage">
             <ButtonPink className="border_pink">
               <p>{tAwards("buttonSeeAll")}</p>
             </ButtonPink>
