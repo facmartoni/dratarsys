@@ -40,7 +40,7 @@ export default function Awards() {
           <Col className="d-flex justify-content-center">
             <CardColumns>
               {/* <Award
-                image={award19}
+                image={award20}
                 title={t("awardTitle20")}
                 text={t("awardText20")}
                 button={t("button")}
