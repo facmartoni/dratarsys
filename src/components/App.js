@@ -39,7 +39,7 @@ class App extends Component {
       <TranslatorProvider
         translations={require("../lang/" + this.state.language + ".json")}
       >
-        <BrowserRouter>
+        <BrowserRouter basename={process.env.PUBLIC_URL}>
           <Layout
             activeButtonEN={this.state.activeButtonEN}
             activeButtonES={this.state.activeButtonES}
@@ -48,8 +48,8 @@ class App extends Component {
           >
             <Switch>
               <Route exact path="/" component={Home} />
-              <Route exact path="/premios/" component={Awards} />
-              <Route exact path="/carrera/" component={Carrera} />
+              <Route exact path="/premios" component={Awards} />
+              <Route exact path="/carrera" component={Carrera} />
             </Switch>
           </Layout>
         </BrowserRouter>
