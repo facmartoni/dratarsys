@@ -7,7 +7,7 @@ import Award from "../components/Award";
 import "./styles/Awards.css";
 import HeroSecondary from "../components/HeroSecondary";
 import awardHeroImage from "../images/premios/2.png";
-import award20 from "../images/premios/19.png";
+import award20 from "../images/premios/20.png";
 import awardDelivery20 from "../images/entrega_premios/the_winner_awards_new_york_2019.png";
 import award19 from "../images/premios/19.png";
 import awardDelivery19 from "../images/entrega_premios/quality_choice_prize_berlin_2019.png";
@@ -39,7 +39,7 @@ export default function Awards() {
         <Row className="text-center">
           <Col className="d-flex justify-content-center">
             <CardColumns>
-              {/* <Award
+              <Award
                 image={award20}
                 title={t("awardTitle20")}
                 text={t("awardText20")}
@@ -47,7 +47,7 @@ export default function Awards() {
                 description={t("awardDescription20")}
                 className="award"
                 delivery={awardDelivery20}
-              /> */}
+              />
               <Award
                 image={award19}
                 title={t("awardTitle19")}
