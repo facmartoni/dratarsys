@@ -9,7 +9,7 @@ import SectionFluid from "../components/SectionFluid";
 import Award from "../components/Award";
 import ButtonPink from "../components/ButtonPink";
 
-import renaissanceHollywood from "../images/varios/renaissance_hollywood.png";
+import renaissanceHollywood from "../images/varios/renaissance_hollywood_2.png";
 import consultorio1 from "../images/consultorio/consultorio_9.png";
 import consultorio2 from "../images/consultorio/consultorio_7.png";
 import consultorio3 from "../images/consultorio/consultorio_8.png";
@@ -39,6 +39,7 @@ export default function Home(props) {
       <Phrase message={t("firstPhrase")} />
       <SectionFluid
         image={renaissanceHollywood}
+        imageClass=" object_position_top"
         color="background_primary_color"
         order="imagefirst"
         className="max-height-400"
@@ -131,6 +132,7 @@ export default function Home(props) {
       <Phrase message={t("secondPhrase")} />
       <SectionFluid
         image={smile}
+        imageClass=" "
         color="background_primary_color"
         order="imagefirst"
         className="max-height-400"

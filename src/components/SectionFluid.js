@@ -39,7 +39,10 @@ export default function SectionFluid(props) {
             </Carousel.Item>
           </Carousel>
         ) : (
-          <Image src={props.image} className="SectionFluid_image w-100" />
+          <Image
+            src={props.image}
+            className={"SectionFluid_image w-100" + props.imageClass}
+          />
         )}
       </Col>
       <Col

@@ -38,6 +38,9 @@ export default function Carrera() {
                       <li>
                         <p>▸ {t("grado3")}</p>
                       </li>
+                      <li>
+                        <p>▸ {t("grado4")}</p>
+                      </li>
                     </ul>
                   </Card.Body>
                 </Accordion.Collapse>

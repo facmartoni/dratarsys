@@ -167,6 +167,10 @@ p,
   border: 1px solid var(--action-color) !important;
 }
 
+.object_position_top {
+  object-position: top !important;
+}
+
 @media screen and (min-width: 600px) {
   :root {
     --h1: 50px;
