@@ -14,6 +14,8 @@ import consultorio1 from "../images/consultorio/consultorio_9.png";
 import consultorio2 from "../images/consultorio/consultorio_7.png";
 import consultorio3 from "../images/consultorio/consultorio_8.png";
 import smile from "../images/varios/smile.png";
+import destroyedHead from "../images/varios/destroyed_head.png";
+import butterflies from "../images/varios/butterflies.png";
 import award19 from "../images/premios/19.png";
 import awardDelivery19 from "../images/entrega_premios/quality_choice_prize_berlin_2019.png";
 import award16 from "../images/premios/16.png";
@@ -131,8 +133,10 @@ export default function Home(props) {
       </SectionFluid>
       <Phrase message={t("secondPhrase")} />
       <SectionFluid
+        slider={true}
         image={smile}
-        imageClass=" "
+        image2={butterflies}
+        image3={destroyedHead}
         color="background_primary_color"
         order="imagefirst"
         className="max-height-400"
