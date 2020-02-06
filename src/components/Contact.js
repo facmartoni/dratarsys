@@ -43,7 +43,7 @@ export default function Contact() {
               <i className="flaticon-facebook mr-2" />
             </a>
             <a
-              href="https://www.instagram.com/tarsysloayza/"
+              href="https://www.instagram.com/drtarsysloayza/"
               target="_blank"
               className="contact_social_network text-reset"
             >
